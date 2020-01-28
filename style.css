@@ -1,0 +1,58 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+h1 {
+    color: darksalmon;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+p {
+    color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    text-indent: 100px;
+}
+
+img {
+    width: 250px;
+    height: 325px;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+header {
+    font-size: 50px;
+    color: darkred;
+    text-indent: 100px;
+}
+
+span.learning {
+    color: rgb(4, 4, 255);
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+footer {
+    color: darkred;
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.navbar-inner {
+    background:transparent;
+}
+
+.navbar-brand, h1 {
+    font-family: 'Pacifico', serif;
+    font-size: 48px;
+  }
