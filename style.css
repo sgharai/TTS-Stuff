@@ -54,5 +54,5 @@ footer {
 
 .navbar-brand, h1 {
     font-family: 'Pacifico', serif;
-    font-size: 48px;
+    font-size: 48px !important;
   }
